@@ -7,21 +7,21 @@ export const MenuItems = [
 
     },
     {
-        title: "About",
+        title: "Appointment",
         url: "/about",
         cName: "nav-links",
         icon: "fa-solid fa-circle-info"
   
       },
       {
-        title: "Service",
-        url: "/service",
+        title: "Calendar",
+        url: "/calendar",
         cName: "nav-links",
         icon: "fa-solid fa-briefcase"
   
       },
       {
-        title: "Contact",
+        title: "Contact List",
         url: "contact",
         cName: "nav-links",
         icon: "fa-solid fa-address-book"

@@ -1,6 +1,7 @@
 import { BrowserRouter } from 'react-router-dom';
+import  { Calendar } from './Calendar';
 import { QueryParamsCalendarController } from './QueryParamsCalendarController';
-import './App.js';
+import './App';
 
 function CalendarApp() {
     return (

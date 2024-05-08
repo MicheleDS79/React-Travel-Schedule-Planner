@@ -8,7 +8,7 @@ export const MenuItems = [
     },
     {
         title: "Appointment",
-        url: "/about",
+        url: "/appointment",
         cName: "nav-links",
         icon: "fa-solid fa-circle-info"
   
@@ -22,7 +22,7 @@ export const MenuItems = [
       },
       {
         title: "Contact List",
-        url: "contact",
+        url: "contactlist",
         cName: "nav-links",
         icon: "fa-solid fa-address-book"
   

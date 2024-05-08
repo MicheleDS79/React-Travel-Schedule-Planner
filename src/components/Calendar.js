@@ -106,3 +106,5 @@ export const Calendar = ({ month, year, onPrev, onNext }) => {
         </>
     )
 }
+
+export default Calendar;
